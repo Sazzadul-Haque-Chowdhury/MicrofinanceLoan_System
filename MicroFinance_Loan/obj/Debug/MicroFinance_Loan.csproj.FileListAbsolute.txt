@@ -1,0 +1,93 @@
+E:\Coding File\MicroFinance_Loan\MicroFinance_Loan\bin\Debug\MicroFinance_Loan.exe.config
+E:\Coding File\MicroFinance_Loan\MicroFinance_Loan\bin\Debug\MicroFinance_Loan.exe
+E:\Coding File\MicroFinance_Loan\MicroFinance_Loan\bin\Debug\MicroFinance_Loan.pdb
+E:\Coding File\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFinance_Loan.csproj.AssemblyReference.cache
+E:\Coding File\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\Microfinance_Loan_Management_System.Presentation.Authentication.LoginForm.resources
+E:\Coding File\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\Microfinance_Loan_Management_System.Presentation.Authentication.SignUpForm.resources
+E:\Coding File\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\Microfinance_Loan_Management_System.Presentation.Authentication.SplashScreen.resources
+E:\Coding File\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\Microfinance_Loan_Management_System.presentation.Base.BaseForm.resources
+E:\Coding File\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\Microfinance_Loan_Management_System.Presentation.Dashboards.AdminDashboard.resources
+E:\Coding File\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFinance_Loan.Properties.Resources.resources
+E:\Coding File\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFinance_Loan.csproj.GenerateResource.cache
+E:\Coding File\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFinance_Loan.csproj.CoreCompileInputs.cache
+E:\Coding File\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFinance_Loan.exe
+E:\Coding File\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFinance_Loan.pdb
+E:\Coding File\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFinance_Loan.exe.config
+E:\Coding File\OOP-2 C#\Final Term\MicroFinance_Loan\MicroFinance_Loan\bin\Debug\MicroFinance_Loan.exe.config
+E:\Coding File\OOP-2 C#\Final Term\MicroFinance_Loan\MicroFinance_Loan\bin\Debug\MicroFinance_Loan.exe
+E:\Coding File\OOP-2 C#\Final Term\MicroFinance_Loan\MicroFinance_Loan\bin\Debug\MicroFinance_Loan.pdb
+E:\Coding File\OOP-2 C#\Final Term\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFinance_Loan.csproj.AssemblyReference.cache
+E:\Coding File\OOP-2 C#\Final Term\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFinance_Loan.exe.config
+E:\Coding File\OOP-2 C#\Final Term\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\Microfinance_Loan_Management_System.Presentation.Authentication.LoginForm.resources
+E:\Coding File\OOP-2 C#\Final Term\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\Microfinance_Loan_Management_System.Presentation.Authentication.SignUpForm.resources
+E:\Coding File\OOP-2 C#\Final Term\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\Microfinance_Loan_Management_System.Presentation.Authentication.SplashScreen.resources
+E:\Coding File\OOP-2 C#\Final Term\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\Microfinance_Loan_Management_System.presentation.Base.BaseForm.resources
+E:\Coding File\OOP-2 C#\Final Term\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\Microfinance_Loan_Management_System.Presentation.Dashboards.AdminDashboard.resources
+E:\Coding File\OOP-2 C#\Final Term\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFinance_Loan.Properties.Resources.resources
+E:\Coding File\OOP-2 C#\Final Term\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFinance_Loan.csproj.GenerateResource.cache
+E:\Coding File\OOP-2 C#\Final Term\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFinance_Loan.csproj.CoreCompileInputs.cache
+E:\Coding File\OOP-2 C#\Final Term\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFinance_Loan.exe
+E:\Coding File\OOP-2 C#\Final Term\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFinance_Loan.pdb
+E:\Coding File\OOP-2 C#\Final Term\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFinance_Loan.presentation.Dashboards.MemberDashboard.resources
+E:\Coding File\OOP-2 C#\Final Term\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFinance_Loan.presentation.Dashboards.OfficerDashboard.resources
+E:\Coding File\OOP-2 C#\Final Term\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFinance_Loan.presentation.Users.UserManagementForm.resources
+E:\Coding File\OOP-2 C#\Final Term\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFinance_Loan.presentation.Settings.UserProfileForm.resources
+E:\Coding File\OOP-2 C#\Final Term\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFinance_Loan.presentation.Settings.ChangePassword.resources
+E:\Coding File\OOP-2 C#\Final Term\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFinance_Loan.presentation.Users.AddEditUserForm.resources
+E:\Coding File\OOP-2 C#\Final Term\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFinance_Loan.presentation.Policies.AddEditForm.resources
+E:\Coding File\OOP-2 C#\Final Term\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFinance_Loan.presentation.Policies.LoanPolicyForm.resources
+E:\Coding File\OOP-2 C#\Final Term\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFinance_Loan.presentation.Loans.LoanApplicationForm.resources
+E:\Coding File\OOP-2 C#\Final Term\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFinance_Loan.presentation.Loans.LoanApprovalForm.resources
+E:\Coding File\OOP-2 C#\Final Term\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFinance_Loan.presentation.Payments.MakePaymentForm.resources
+E:\Coding File\OOP-2 C#\Final Term\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFinance_Loan.presentation.Payments.PaymentCollectionForm.resources
+E:\Coding File\OOP-2 C#\Final Term\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFinance_Loan.presentation.Loans.AllLoansForm.resources
+E:\Coding File\OOP-2 C#\Final Term\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFinance_Loan.presentation.Loans.PendingLoanForm.resources
+E:\Coding File\OOP-2 C#\Final Term\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFinance_Loan.presentation.Reports.LoanSummaryReport.resources
+E:\Coding File\OOP-2 C#\Final Term\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFinance_Loan.presentation.Reports.ProfitLossReport.resources
+E:\Coding File\OOP-2 C#\Final Term\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFinance_Loan.presentation.Reports.CollectionReport.resources
+E:\Coding File\OOP-2 C#\Final Term\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFinance_Loan.presentation.Reports.OverdueLoanReport.resources
+E:\Coding File\OOP-2 C#\Final Term\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFinance_Loan.presentation.Reports.ReportsMainForm.resources
+E:\Coding File\OOP-2 C#\Final Term\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFinance_Loan.presentation.Loans.EMICalculator.resources
+E:\Coding File\OOP-2 C#\Final Term\MicroFinance_Loan\MicroFinance_Loan\bin\Debug\BouncyCastle.Crypto.dll
+E:\Coding File\OOP-2 C#\Final Term\MicroFinance_Loan\MicroFinance_Loan\bin\Debug\itextsharp.dll
+E:\Coding File\OOP-2 C#\Final Term\MicroFinance_Loan\MicroFinance_Loan\bin\Debug\itextsharp.xml
+E:\Coding File\OOP-2 C#\Final Term\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFin.D136828A.Up2Date
+F:\Study metarials\Semester 7\FINAL\OOP 2\MicrofinanceLoan\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFinance_Loan.csproj.AssemblyReference.cache
+F:\Study metarials\Semester 7\FINAL\OOP 2\MicrofinanceLoan\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFinance_Loan.exe.config
+F:\Study metarials\Semester 7\FINAL\OOP 2\MicrofinanceLoan\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFinance_Loan.exe
+F:\Study metarials\Semester 7\FINAL\OOP 2\MicrofinanceLoan\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFinance_Loan.pdb
+F:\Study metarials\Semester 7\FINAL\OOP 2\MicrofinanceLoan\MicroFinance_Loan\MicroFinance_Loan\bin\Debug\MicroFinance_Loan.exe.config
+F:\Study metarials\Semester 7\FINAL\OOP 2\MicrofinanceLoan\MicroFinance_Loan\MicroFinance_Loan\bin\Debug\MicroFinance_Loan.exe
+F:\Study metarials\Semester 7\FINAL\OOP 2\MicrofinanceLoan\MicroFinance_Loan\MicroFinance_Loan\bin\Debug\MicroFinance_Loan.pdb
+F:\Study metarials\Semester 7\FINAL\OOP 2\MicrofinanceLoan\MicroFinance_Loan\MicroFinance_Loan\bin\Debug\BouncyCastle.Crypto.dll
+F:\Study metarials\Semester 7\FINAL\OOP 2\MicrofinanceLoan\MicroFinance_Loan\MicroFinance_Loan\bin\Debug\itextsharp.dll
+F:\Study metarials\Semester 7\FINAL\OOP 2\MicrofinanceLoan\MicroFinance_Loan\MicroFinance_Loan\bin\Debug\itextsharp.xml
+F:\Study metarials\Semester 7\FINAL\OOP 2\MicrofinanceLoan\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\Microfinance_Loan_Management_System.Presentation.Authentication.LoginForm.resources
+F:\Study metarials\Semester 7\FINAL\OOP 2\MicrofinanceLoan\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\Microfinance_Loan_Management_System.Presentation.Authentication.SignUpForm.resources
+F:\Study metarials\Semester 7\FINAL\OOP 2\MicrofinanceLoan\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\Microfinance_Loan_Management_System.Presentation.Authentication.SplashScreen.resources
+F:\Study metarials\Semester 7\FINAL\OOP 2\MicrofinanceLoan\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\Microfinance_Loan_Management_System.presentation.Base.BaseForm.resources
+F:\Study metarials\Semester 7\FINAL\OOP 2\MicrofinanceLoan\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\Microfinance_Loan_Management_System.Presentation.Dashboards.AdminDashboard.resources
+F:\Study metarials\Semester 7\FINAL\OOP 2\MicrofinanceLoan\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFinance_Loan.presentation.Dashboards.MemberDashboard.resources
+F:\Study metarials\Semester 7\FINAL\OOP 2\MicrofinanceLoan\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFinance_Loan.presentation.Dashboards.OfficerDashboard.resources
+F:\Study metarials\Semester 7\FINAL\OOP 2\MicrofinanceLoan\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFinance_Loan.presentation.Loans.AllLoansForm.resources
+F:\Study metarials\Semester 7\FINAL\OOP 2\MicrofinanceLoan\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFinance_Loan.presentation.Loans.EMICalculator.resources
+F:\Study metarials\Semester 7\FINAL\OOP 2\MicrofinanceLoan\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFinance_Loan.presentation.Loans.LoanApplicationForm.resources
+F:\Study metarials\Semester 7\FINAL\OOP 2\MicrofinanceLoan\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFinance_Loan.presentation.Loans.LoanApprovalForm.resources
+F:\Study metarials\Semester 7\FINAL\OOP 2\MicrofinanceLoan\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFinance_Loan.presentation.Loans.PendingLoanForm.resources
+F:\Study metarials\Semester 7\FINAL\OOP 2\MicrofinanceLoan\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFinance_Loan.presentation.Payments.MakePaymentForm.resources
+F:\Study metarials\Semester 7\FINAL\OOP 2\MicrofinanceLoan\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFinance_Loan.presentation.Payments.PaymentCollectionForm.resources
+F:\Study metarials\Semester 7\FINAL\OOP 2\MicrofinanceLoan\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFinance_Loan.presentation.Policies.AddEditForm.resources
+F:\Study metarials\Semester 7\FINAL\OOP 2\MicrofinanceLoan\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFinance_Loan.presentation.Policies.LoanPolicyForm.resources
+F:\Study metarials\Semester 7\FINAL\OOP 2\MicrofinanceLoan\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFinance_Loan.presentation.Reports.CollectionReport.resources
+F:\Study metarials\Semester 7\FINAL\OOP 2\MicrofinanceLoan\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFinance_Loan.presentation.Reports.LoanSummaryReport.resources
+F:\Study metarials\Semester 7\FINAL\OOP 2\MicrofinanceLoan\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFinance_Loan.presentation.Reports.OverdueLoanReport.resources
+F:\Study metarials\Semester 7\FINAL\OOP 2\MicrofinanceLoan\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFinance_Loan.presentation.Reports.ProfitLossReport.resources
+F:\Study metarials\Semester 7\FINAL\OOP 2\MicrofinanceLoan\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFinance_Loan.presentation.Reports.ReportsMainForm.resources
+F:\Study metarials\Semester 7\FINAL\OOP 2\MicrofinanceLoan\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFinance_Loan.presentation.Settings.ChangePassword.resources
+F:\Study metarials\Semester 7\FINAL\OOP 2\MicrofinanceLoan\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFinance_Loan.presentation.Settings.UserProfileForm.resources
+F:\Study metarials\Semester 7\FINAL\OOP 2\MicrofinanceLoan\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFinance_Loan.presentation.Users.AddEditUserForm.resources
+F:\Study metarials\Semester 7\FINAL\OOP 2\MicrofinanceLoan\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFinance_Loan.presentation.Users.UserManagementForm.resources
+F:\Study metarials\Semester 7\FINAL\OOP 2\MicrofinanceLoan\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFinance_Loan.Properties.Resources.resources
+F:\Study metarials\Semester 7\FINAL\OOP 2\MicrofinanceLoan\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFinance_Loan.csproj.GenerateResource.cache
+F:\Study metarials\Semester 7\FINAL\OOP 2\MicrofinanceLoan\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFinance_Loan.csproj.CoreCompileInputs.cache
+F:\Study metarials\Semester 7\FINAL\OOP 2\MicrofinanceLoan\MicroFinance_Loan\MicroFinance_Loan\obj\Debug\MicroFin.D136828A.Up2Date
